@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jokenpo</string>
+    <string name="nomeLogo">Jokenpô</string>
+    <string name="jogador">Jogador</string>
+    <string name="pc">App</string>
+    <string name="titulo">Jokenpô</string>
+    <string name="menu">1 - PEDRA | 2 - PAPEL | 3 - TESOURA</string>
+    <string name="jogar">Jogar</string>
+    <string name="limpar">Limpar</string>
+    <string name="linha">__________________________________________________</string>
+    <string name="resultado">Resultado do Jogo</string>
+</resources>
