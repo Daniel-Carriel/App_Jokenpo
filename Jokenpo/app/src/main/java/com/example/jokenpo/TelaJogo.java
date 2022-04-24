@@ -36,10 +36,13 @@ public class TelaJogo extends AppCompatActivity {
 
                 switch (jogador){
                     case 1:
+                        editJogador.setText("PEDRA");
                         break;
                     case 2:
+                        editJogador.setText("PAPEL");
                         break;
                     case 3:
+                        editJogador.setText("TESOURA");
                         break;
                     default:
                         txtResultado.setText("Jogador, escolha uma opção válida!");
@@ -47,10 +50,13 @@ public class TelaJogo extends AppCompatActivity {
 
                 switch (App){
                     case 1:
+                        txtApp.setText("PEDRA");
                         break;
                     case 2:
+                        txtApp.setText("PAPEL");
                         break;
                     case 3:
+                        txtApp.setText("TESOURA");
                         break;
                 }
 
