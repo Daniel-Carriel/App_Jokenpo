@@ -7,6 +7,9 @@
         <entry key="..\:/Users/danie/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/activity_main.xml" value="0.246875" />
         <entry key="..\:/Users/danie/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/activity_tela_jogo.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/danie/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/activity_tela_jogo2.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/danie/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/activity_tela_perdedor.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/danie/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/activity_tela_regulamento.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/danie/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/activity_tela_vencedor.xml" value="0.25052083333333336" />
       </map>
     </option>
   </component>

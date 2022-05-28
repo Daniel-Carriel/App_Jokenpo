@@ -9,4 +9,18 @@
     <string name="limpar">Limpar</string>
     <string name="linha">__________________________________________________</string>
     <string name="resultado">Resultado do Jogo</string>
+    <string name="placar">0</string>
+    <string name="contra">x</string>
+    <string name="vencedor">Parabéns!</string>
+    <string name="vencedor2">Você foi o vencedor!!</string>
+    <string name="perdeu">Infelizmente</string>
+    <string name="perdeu2">você perdeu. ToT</string>
+    <string name="comoJogar">Como jogar</string>
+    <string name="regra1">1 - Escolher um número de 1 a 3, que corresponde a pedra, papel ou tesoura.</string>
+    <string name="regra2">2 - O App irá gerar um número aleatório para jogar.</string>
+    <string name="regra3">3 - Após escolher a opção desejada, pressione o botão jogar para realizar a jogada.</string>
+    <string name="regra4">4 - O resultado da jogada aparecerá na parte inferior da tela, em Resultado do jogo.</string>
+    <string name="regra5">5 - Após realizar a jogada, precione o botão limpar para realizar uma nova jogada.</string>
+    <string name="regra6">6 - O primeiro que chegar a 10 pontos vencerá.</string>
+    <string name="StartJogo">Iniciar jogo</string>
 </resources>

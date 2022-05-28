@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="minhaCor">#0073ff</color>
+    <color name="dourado">#FFD700</color>
 </resources>
